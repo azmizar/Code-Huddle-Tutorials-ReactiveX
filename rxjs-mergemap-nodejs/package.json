@@ -1,0 +1,25 @@
+{
+  "name": "rxjs-mergemap-nodejs",
+  "version": "1.0.0",
+  "description": "Reativex mergeMap Example",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmizar/Code-Huddle-Tutorials-ReactiveX.git"
+  },
+  "keywords": [
+    "reactivex",
+    "mergemap",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Azmizar Ujang (azmizar@code-huddle.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/azmizar/Code-Huddle-Tutorials-ReactiveX/issues"
+  },
+  "homepage": "https://github.com/azmizar/Code-Huddle-Tutorials-ReactiveX#readme"
+}
