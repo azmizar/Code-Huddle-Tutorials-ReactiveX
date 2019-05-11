@@ -1,5 +1,5 @@
 # Repository for ReactiveX sample projects on [www.code-huddle.com](https://www.code-huddle.com/#/tutorials)
 
-## nodejs-typescript-tsc
+## rxjs-mergemap-nodejs
 
-> Guide to setup NodeJS application to use typescript (tsc) as the transpiler.
+> Tutorial on using mergeMap to make multiple REST API calls.
